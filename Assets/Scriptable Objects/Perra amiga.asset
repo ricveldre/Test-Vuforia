@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Perra amiga
   m_EditorClassIdentifier: 
   musicName: Perra amiga
-  danceName: Thriller
+  animationName: Thriller
   notesConfig: {fileID: 4900000, guid: faa76bdada4496c4baae6c29c50bf885, type: 3}
-  speed: 0
+  speed: 200

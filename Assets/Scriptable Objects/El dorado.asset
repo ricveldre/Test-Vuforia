@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: El dorado
   m_EditorClassIdentifier: 
   musicName: El dorado
-  danceName: Pointing Gesture
+  animationName: Pointing Gesture
   notesConfig: {fileID: 4900000, guid: 2e67cfa62190e99439bdfa60d0f70f40, type: 3}
-  speed: 0
+  speed: 200
