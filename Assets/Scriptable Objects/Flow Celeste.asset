@@ -15,4 +15,4 @@ MonoBehaviour:
   musicName: Flow Celeste
   animationName: Robot hip hop
   notesConfig: {fileID: 4900000, guid: 267f378c0b579554883f041d7d6cbb5b, type: 3}
-  speed: 100
+  speed: 200
