@@ -15,4 +15,4 @@ MonoBehaviour:
   musicName: Perra amiga
   animationName: Thriller
   notesConfig: {fileID: 4900000, guid: faa76bdada4496c4baae6c29c50bf885, type: 3}
-  speed: 200
+  speed: 300

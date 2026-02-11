@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Test Vuforia.sln"
+    "dotnet.defaultSolution": "Test-Vuforia.slnx"
 }
