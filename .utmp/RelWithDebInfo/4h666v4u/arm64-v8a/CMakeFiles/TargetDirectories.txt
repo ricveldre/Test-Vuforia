@@ -1,0 +1,5 @@
+C:/Users/chido/OneDrive/Documentos/Repos/Test-Vuforia/.utmp/RelWithDebInfo/4h666v4u/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/chido/OneDrive/Documentos/Repos/Test-Vuforia/.utmp/RelWithDebInfo/4h666v4u/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/chido/OneDrive/Documentos/Repos/Test-Vuforia/.utmp/RelWithDebInfo/4h666v4u/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/chido/OneDrive/Documentos/Repos/Test-Vuforia/.utmp/RelWithDebInfo/4h666v4u/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/chido/OneDrive/Documentos/Repos/Test-Vuforia/.utmp/RelWithDebInfo/4h666v4u/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
